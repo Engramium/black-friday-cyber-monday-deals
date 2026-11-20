@@ -103,4 +103,4 @@ Use this structure when adding deals:
 | 🐺 **Grok (xAI)**      | Fast, edgy AI assistant with real-time X data.                              | *No BF discounts publicly offered*                                |
 | 🧩 **Base44**          | AI automation platform & no-code workflow builder.                          | *Add deal if you have specifics*                                  |
 | ⚙️ **n8n**             | Open-source workflow automation with AI integrations.                       | *Add deal (n8n sometimes offers BF promos via newsletter)*        |
-
+| 💼 **BundleWP** | Complete business software bundle — all 11 products in one package: restaurant system, e-commerce system, billing software, WordPress plugins & tools. Lifetime access. | **87% OFF** — $129 for all 11 (regular $1,029) — `BUNDLE129` (ends Dec 1, 2026) |
